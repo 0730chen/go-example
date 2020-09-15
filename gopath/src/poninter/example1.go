@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func example1() {
+func example() {
 
 	var a int
 	fmt.Println(&a)
