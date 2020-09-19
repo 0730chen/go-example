@@ -1,4 +1,4 @@
-package main
+package poninter
 
 import "fmt"
 

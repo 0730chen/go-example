@@ -1,8 +1,9 @@
-package main
+package cccc
 
 import "fmt"
 
-func changeString() {
+var name = "哈哈哈"
+func Add() {
 	s1 := "hello"
 	// 强制类型转换
 	byteS1 := []byte(s1)
@@ -18,6 +19,3 @@ func changeString() {
 	fmt.Println(string(runeS2))
 }
 
-func main() {
-	changeString()
-}
