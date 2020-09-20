@@ -1,10 +1,10 @@
-package main
+package prints
 
 import (
 	"fmt"
 )
 
-func main2() {
+func Print() {
 	var x int
 	var y float64
 	fmt.Println("请输入一个整数，一个浮点类型：")

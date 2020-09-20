@@ -1,4 +1,4 @@
-package main
+package prints
 
 import (
 	"bufio"
@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-func main() {
+func Prints() {
 	fmt.Println("请输入一个字符串：")
 	reader := bufio.NewReader(os.Stdin)
 	fmt.Println(reader)

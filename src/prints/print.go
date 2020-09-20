@@ -1,10 +1,9 @@
-package main
-
+package prints
 import (
 	"fmt"
 )
 
-func main3() {
+func Print2() {
 	a := 100           //int
 	b := 3.14          //float64
 	c := true          // bool
