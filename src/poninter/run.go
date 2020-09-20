@@ -1,6 +1,6 @@
 package poninter
 
-func poninter()  {
-	run()
-	example()
+func Poninter()  {
+	Run()
+	Example()
 }

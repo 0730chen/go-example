@@ -1,5 +1,5 @@
 package poninter
 
-func run() {
-	example()
+func Run() {
+	Example()
 }

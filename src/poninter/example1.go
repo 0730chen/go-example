@@ -2,7 +2,7 @@ package poninter
 
 import "fmt"
 
-func example() {
+func Example() {
 
 	var a int
 	fmt.Println(&a)
